@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Alberto Gómez Castaño, graduated in video game developer from the Complutense University of Madrid.
+I am Alberto Gómez Castaño, I have a degree in video game development from the Complutense University of Madrid.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alberto-g%C3%B3mez-casta%C3%B1o/)
 
-## 📄 [My portfolio](https://albgom21.github.io/PORTFOLIO/)
+## 📝 [PORTFOLIO](https://albgom21.github.io/PORTFOLIO/)
 
 ### 💻 Programming languages
 ![C++](https://img.shields.io/badge/-C%2B%2B-03045e)
